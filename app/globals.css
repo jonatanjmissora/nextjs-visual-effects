@@ -182,10 +182,11 @@ span {
 
 /*********************************** Slider ************************************/
 .slider {
+  --slider-time: 100s;
   animation: autoRun 100s linear infinite;
 }
 
-.slider:nth-of-type(1) {
+.slider:nth-of-type(0) {
   animation-delay: -50s;
 }
 
@@ -195,7 +196,7 @@ span {
   }
 }
 
-/*********************************** Slider ************************************/
+/*********************************** Card Reveal ************************************/
 .card-reveal-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
