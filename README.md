@@ -1,3 +1,3 @@
-![FOTO 1](./public/Sin título.webp)
-![FOTO 2](./public/Sin título2.webp)
-![FOTO 3](./public/Sin título3.webp)
+![alt text](/public/Sin título.webp "preview image repository")
+![alt text](/public/Sin título2.webp "preview image repository")
+![alt text](/public/Sin título3.webp "preview image repository")
